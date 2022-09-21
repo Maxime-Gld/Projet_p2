@@ -1,5 +1,3 @@
-@media screen and (max-width: 768px)
-{
 
     /* ------- regle générale ------- */
 
@@ -159,4 +157,5 @@
         flex-direction: column;
         margin: auto;
     }
-}
+
+
