@@ -83,7 +83,12 @@
         align-items: baseline;
     }
 
-    /* bloc populaire */
+    /* bloc hebergement */
+
+    #hebergements {
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
 
     .populaires .carte img {
         width: 125px;
@@ -99,9 +104,15 @@
 
     .conteneur:nth-child(1) {
         background-color: white;
+        margin-bottom: 0;
     }
 
     /* ------- bloc activité --------- */
+
+    #activites {
+        padding-top: 0;
+    }
+
 
     .activites_marseille {
         flex-direction: row;
