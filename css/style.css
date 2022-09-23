@@ -311,7 +311,7 @@ h2 {
 
 .hebergements_marseille .carte {
     flex-direction: column;
-    height: 210px;
+    height: 190px;
     width: 30%;
     margin-bottom: 15px;
 }
@@ -323,7 +323,7 @@ h2 {
 
 .hebergements_marseille .carte img {
     width: 100%;
-    height: 120px;
+    height: 90px;
     border-radius: 15px 15px 0 0;
 }
 
