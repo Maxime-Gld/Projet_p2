@@ -23,6 +23,7 @@ html {
 }
 
 .bloc_page {
+    max-width: 1440px;
     padding: 0 20px;
     margin: auto;
 }
@@ -431,9 +432,10 @@ h2 {
 /* ----- footer et navigation ----- */
 
 footer {
+    max-width: 1600px;
+    margin: auto;
     background-color: var(--gris);
     padding: 20px 50px;
-    width: 100%;
 }
 
 .conteneur_footer {
